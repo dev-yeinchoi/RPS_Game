@@ -1,3 +1,4 @@
+# 가위바위보 미니게임
 import random
 
 def get_user_choice():
